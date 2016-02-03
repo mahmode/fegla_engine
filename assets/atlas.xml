@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:47e59ef6e38a712c0b9b3dd1342a5a65$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="brick1" x="2" y="2" width="40" height="20"/>
+    <SubTexture name="brick1_l" x="44" y="2" width="20" height="20"/>
+    <SubTexture name="brick1_r" x="66" y="2" width="20" height="20"/>
+    <SubTexture name="door" x="2" y="24" width="60" height="90"/>
+    <SubTexture name="gem1" x="64" y="24" width="25" height="24"/>
+    <SubTexture name="gem2" x="91" y="24" width="25" height="24"/>
+    <SubTexture name="gem3" x="2" y="116" width="25" height="24"/>
+    <SubTexture name="gem4" x="29" y="116" width="25" height="24"/>
+    <SubTexture name="hero_jump" x="56" y="116" width="38" height="82"/>
+    <SubTexture name="hero_stand" x="2" y="200" width="42" height="82"/>
+    <SubTexture name="hero_walk1" x="46" y="200" width="38" height="82"/>
+    <SubTexture name="hero_walk2" x="86" y="200" width="38" height="82"/>
+    <SubTexture name="hero_walk3" x="2" y="284" width="42" height="80"/>
+    <SubTexture name="hero_walk4" x="46" y="284" width="38" height="82"/>
+    <SubTexture name="hero_walk5" x="86" y="284" width="38" height="80"/>
+    <SubTexture name="hero_walk6" x="2" y="368" width="42" height="80"/>
+</TextureAtlas>
